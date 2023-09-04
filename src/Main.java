@@ -1,7 +1,3 @@
-import com.sun.java.swing.plaf.windows.WindowsTextAreaUI;
-import javafx.concurrent.Worker;
-import jdk.nashorn.internal.runtime.WithObject;
-
 import java.util.function.Function;
 
 public class Main {
